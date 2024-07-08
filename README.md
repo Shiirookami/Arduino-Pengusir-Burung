@@ -17,4 +17,3 @@
   * trig = d5
   * echo = d6
   * gnd = gnd
-

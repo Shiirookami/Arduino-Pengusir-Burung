@@ -1,17 +1,17 @@
 # Menambahkan driver jika tidak ada
-* cara menggunakan : Tools >board > board manager 
-https://arduino.esp8266.com/stable/package_esp8266com_index.json
+* cara menggunakan : Tools >board > board manager
+* masukan link : https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 # Konfigurasi
 - install Arduino IDE
 - esp 8266/wemos d1 wifi
 - micro usb cable
 - micro servo99
-  - yellow = vcc/5v
-  - orange = d4
-  - black/brown = gnd
+  * yellow = vcc/5v
+  * orange = d4
+  * black/brown = gnd
 - hc-sr04
-  - vcc = 5v
-  - trig = d5
-  - echo = d6
-  - gnd = gnd
+  * vcc = 5v
+  * trig = d5
+  * echo = d6
+  * gnd = gnd

@@ -1,4 +1,5 @@
-# Menambahkan config d1 wifi board ke arduino
+# Menambahkan driver jika tidak ada
+* cara menggunakan : Tools >board > board manager 
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 # Konfigurasi

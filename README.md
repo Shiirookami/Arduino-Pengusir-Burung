@@ -1,5 +1,5 @@
-# Menambahkan driver jika tidak ada
-* cara menggunakan : Tools >board > board manager
+# Menambahkan driver d1 wifi/wemos 8266 jika tidak ada
+* cara menggunakan : Tools > board > board manager
 * masukan link : https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 # Konfigurasi
@@ -15,3 +15,4 @@
   * trig = d5
   * echo = d6
   * gnd = gnd
+
